@@ -1,0 +1,12 @@
+{
+    "development": {
+        "aptusmpf": {
+            "url": "http://apps.mpf.mp.br/aptusmpf/portal"
+        }
+    },
+    "production": {
+        "aptusmpf": {
+            "url": "http://apps.mpf.mp.br/aptusmpf/portal"
+        }
+    }
+}
