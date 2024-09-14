@@ -46,7 +46,7 @@ Após tudo instalado, basta executar o arquivo main.py
 
 ## Stack utilizada
 
-**RPA:** Playwright Sync API
+**RPA:** Selenium
 
 **Linguagem de programação:** Python
 
